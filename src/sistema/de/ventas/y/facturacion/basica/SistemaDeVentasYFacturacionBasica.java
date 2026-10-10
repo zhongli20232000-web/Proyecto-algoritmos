@@ -65,7 +65,7 @@ public class SistemaDeVentasYFacturacionBasica {
             System.out.println("  |  [2]  Consultar caja             |");
             System.out.println("  |  [3]  Mostrar estadisticas       |");
             System.out.println("  |  [4]  Salir                      |");
-            System.out.println("  +==================================+");
+            System.out.println("  +=================================+");
             System.out.println("  >> Ingrese una opcion:");
             op = sc.nextInt();
 
